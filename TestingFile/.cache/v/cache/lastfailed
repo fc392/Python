@@ -1,0 +1,6 @@
+{
+  "Model.py::test_url_offline": true,
+  "Model.py::test_url_online": true,
+  "Testing.py::test_url_offline": true,
+  "Testing.py::test_url_online": true
+}
